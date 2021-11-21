@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE714D2C274AAA3200B4C783 /* CatPhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE714D2B274AAA3200B4C783 /* CatPhoto.swift */; };
+		CEA7A50D2749C395000203C9 /* CatId.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA7A50C2749C395000203C9 /* CatId.swift */; };
 		CEDF8DAF2749911A00FE942D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDF8DAE2749911A00FE942D /* AppDelegate.swift */; };
 		CEDF8DB12749911A00FE942D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDF8DB02749911A00FE942D /* SceneDelegate.swift */; };
 		CEDF8DB32749911A00FE942D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDF8DB22749911A00FE942D /* ContentView.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE714D2B274AAA3200B4C783 /* CatPhoto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatPhoto.swift; sourceTree = "<group>"; };
+		CEA7A50C2749C395000203C9 /* CatId.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatId.swift; sourceTree = "<group>"; };
 		CEDF8DAB2749911A00FE942D /* catz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = catz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEDF8DAE2749911A00FE942D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEDF8DB02749911A00FE942D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +65,8 @@
 				CEDF8DB22749911A00FE942D /* ContentView.swift */,
 				CEDF8DB42749912500FE942D /* Assets.xcassets */,
 				CEDF8DB92749912500FE942D /* LaunchScreen.storyboard */,
+				CE714D2B274AAA3200B4C783 /* CatPhoto.swift */,
+				CEA7A50C2749C395000203C9 /* CatId.swift */,
 				CEDF8DBC2749912500FE942D /* Info.plist */,
 				CEDF8DB62749912500FE942D /* Preview Content */,
 			);
@@ -148,6 +154,8 @@
 				CEDF8DAF2749911A00FE942D /* AppDelegate.swift in Sources */,
 				CEDF8DB12749911A00FE942D /* SceneDelegate.swift in Sources */,
 				CEDF8DB32749911A00FE942D /* ContentView.swift in Sources */,
+				CE714D2C274AAA3200B4C783 /* CatPhoto.swift in Sources */,
+				CEA7A50D2749C395000203C9 /* CatId.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
